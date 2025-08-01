@@ -1,2 +1,2 @@
 # scrc_bot
-A bot that palys Super Crazy Rythm Castle
+A bot that plays Super Crazy Rhythm Castle
